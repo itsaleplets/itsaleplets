@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 It's nice to have you here 😄
 
-<!--
-**itsaleplets/itsaleplets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 About me: I'm corrently studying at Trybe to become a full stack web developer 🌱
+  🌱So far I've only done a few HTML/CSS and JS projects, you can find them all here.
+   Also, I'd love to collaborate in future projects 👯🔭 
 
-Here are some ideas to get you started:
+- 📫 How to reach me: itsalematos@gmail.com ✨
+  📫 My linkedin: https://www.linkedin.com/in/alessandra-santos-bba3a5167/ ✨
+      💬 Send me a message, let's get in touch 👯💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I live surrounded by rivers but I can't swim! Ironic, huh?
+
+    ✨ Thanks for reading! Hope to hear from you soon! ✨👋
