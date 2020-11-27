@@ -2,7 +2,7 @@
 
 - 🔭 About me: I'm corrently studying at Trybe to become a full stack web developer 🌱
 
-  🌱So far I've only done a few HTML/CSS and JS projects, you can find them all here.
+  🌱So far I've only done a few HTML/CSS and JS - React.js (Redux and ContextAPI) projects, you can find them all here.
    
    ⚡ Also, I'd love to collaborate in future projects 👯🔭 
    
