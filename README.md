@@ -7,9 +7,9 @@
    ⚡ Also, I'd love to collaborate in future projects 👯🔭 
    
 
-- 📫 How to reach me: itsalematos@gmail.com ✨
+- 📫 How to reach me: itsalematos@hotmail.com ✨
 
-  📫 My linkedin: https://www.linkedin.com/in/alessandra-santos-bba3a5167/ ✨
+  📫 My linkedin: https://www.linkedin.com/in/alessandra-santos-98b331201/✨
   
       💬 Send me a message, let's get in touch 👯💬
 
