@@ -2,14 +2,14 @@
 
 - 🔭 About me: I'm corrently studying at Trybe to become a full stack web developer 🌱
 
-  🌱So far I've only done a few HTML/CSS and JS - React.js (Redux and ContextAPI) projects, you can find them all here.
+  🌱So far I've only done a few HTML/CSS, JS, React.js (Redux and ContextAPI), TDD projects, you'll be able to find them all here soon.
    
    ⚡ Also, I'd love to collaborate in future projects 👯🔭 
    
 
 - 📫 How to reach me: itsalematos@hotmail.com ✨
 
-  📫 My linkedin: https://www.linkedin.com/in/alessandra-santos-98b331201/✨
+  📫 My linkedin: https://www.linkedin.com/in/alessandraplets/✨
   
       💬 Send me a message, let's get in touch 👯💬
 
