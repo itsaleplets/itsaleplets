@@ -9,6 +9,7 @@
 - How to reach me:
   - Email: itsalematos@hotmail.com 📫 
   - Linkedin: https://www.linkedin.com/in/alessandraplets/ 
+  - New twitter: https://twitter.com/aleplets_dev
   - I like meeting new people, so send me a message and let's get in touch 👯💬
 
 - Fun fact:
